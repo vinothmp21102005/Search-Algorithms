@@ -44,6 +44,10 @@ else:
     print(array)
     print("Element found at index: ", result)
 
+
+
+
+
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```python
