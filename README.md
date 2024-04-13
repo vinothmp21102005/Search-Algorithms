@@ -99,11 +99,11 @@ else:
     print("Element found at index: ", result)
 ```
 ## Sample Input and Output
-
+# linear search
 ![alt text](image.png)
-
+# binery search (iterative)
 ![alt text](image-1.png)
-
+# binary search (recursive)
 ![alt text](image-2.png)
 
 ## Result
